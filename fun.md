@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Fun
+title: fun
 ---
+
 
 
 
