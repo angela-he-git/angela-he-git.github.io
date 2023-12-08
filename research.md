@@ -5,7 +5,7 @@ title: research
 ---
 
 <details>
-<summary><strong># Perceptions of Neighborhood Safety in the Big Data Era (in progress)</strong></summary>
+<summary><strong> Perceptions of Neighborhood Safety in the Big Data Era (in progress)</strong></summary>
 
 <img src="assets/img/neighborhood_safety.jpeg" alt="Figure displaying effects of offer attributes on the perceived fairness of an offer" width="200" height="150">
 
@@ -14,7 +14,7 @@ In the age of big data, individuals rely on more data sources than ever before t
 </details>
 
 <details>
-<summary><strong># How Americans Evaluate Housing Market Fairness: An Experimental Approach (2023)</strong></summary>
+<summary><strong> How Americans Evaluate Housing Market Fairness: An Experimental Approach (2023)</strong></summary>
 
 <img src="assets/img/basic_marginal_means_simple_bin.png" alt="Figure displaying effects of offer attributes on the perceived fairness of an offer" width="200" height="150">
 
