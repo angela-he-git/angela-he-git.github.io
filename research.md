@@ -6,7 +6,7 @@ title: research
 
 ## Perceptions of Neighborhood Safety in the Big Data Era (in progress)
 
-![Graphic showing cartoon of neighborhood](/assets/img/neighborhood.jpeg)
+<img src="/assets/img/neighborhood.jpeg" alt="cartooon of neighborhood with technology" width="100">
 
 Can "objective" data supplant traditional, subjective data sources in how individuals make decisions? In the age of big data, individuals are no longer solely reliant on recommendations from friends and family and "gut feelings." They have access to more data sources than ever before to assess the safety of a neighborhood, including crime maps generated with public data, private apps like Ring and Citizen, and Google Street View imagery. This has implications for how people choose to live, work, and shop, and thus the segregation of communities. This study uses a survey experiment and semi-structured interviews to examine how individuals navigate and interpret this wealth of information, as well as how it shapes their perceptions of neighborhood safety. More broadly, the findings will provide insights into how people trust and interpret new data sources.
 
