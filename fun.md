@@ -5,7 +5,7 @@ title: fun
 ---
 
 
-## amateur garden
+## Amateur garden
 
 ![Picture of a small garden plot.](/assets/img/garden.jpg)
 
