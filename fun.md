@@ -7,7 +7,7 @@ title: fun
 
 ## amateur garden
 
-![Picture of a small garden plot.](/assets/img/garden.jpeg)
+![Picture of a small garden plot.](/assets/img/garden.jpg)
 
 I maintain a plot in my community garden. I try to remember to water it. (Thankfully, the California sun takes care of the bulk of the work.)
 
