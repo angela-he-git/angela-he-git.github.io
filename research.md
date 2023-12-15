@@ -21,7 +21,7 @@ Owning a home is often seen as a key part of the American Dream, but rising hous
 _Above: Effects of Offer Attributes on the Perceived Fairness of an Offer_
 
 [code](https://github.com/angelahe101/housing_fairness) - 
-[pre-print](https://osf.io/preprints/osf/47ux9)
+[preprint](https://osf.io/preprints/osf/47ux9)
 
 
 
