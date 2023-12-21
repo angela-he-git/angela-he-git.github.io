@@ -8,7 +8,7 @@ title: fun
 
 <img src="/assets/img/dimetime_saver_popup.png" alt="screenshot of dimetimesaver popup" width="300"> <img src="/assets/img/dimetime_saver_notification.png" alt="screenshot of dimetime saver notification" width="300">
 
-This is a chrome extension I made that calculates how much your time is worth. It will send you a reminder about how much your time is worth if you spend more than twenty minutes on a shopping website for basic necessities (e.g. Walmart, Target, Amazon), helping you find the right balance between saving money and your hourly wage. I made it because I tend to waste too much time hunting for deals. 
+This is a chrome extension I made using Javascript and HTML that calculates how much your time is worth. It will send you a reminder about how much your time is worth if you spend more than twenty minutes on a shopping website for basic necessities (e.g. Walmart, Target, Amazon), helping you find the right balance between saving money and your hourly wage. I made it because I tend to waste too much time hunting for deals. 
 
 [code](https://github.com/angelahe101/dimetime-saver)
 
