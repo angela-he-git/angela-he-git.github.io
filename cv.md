@@ -1,6 +1,6 @@
 ---
 layout: page
-title: resume
+title: Curriculum Vitae
 ---
 
 This section is under construction!
